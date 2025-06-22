@@ -1,1 +1,1 @@
-mlflow run https://github.com/jpatinofo/mlflow-ambiente-docker.git -e knn -P n_neighbors=5
+mlflow run https://github.com/cegarciao/mlflow-ambiente-docker.git -e knn -P n_neighbors=5
